@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+
+
+.mygreen a:hover{
+    color:green;
+    border-bottom: 7px solid green;
+}
+
+.first-container{
+    margin: 0;
+    background-image: url('img/left-corona-bg.svg');
+    background-repeat: no-repeat;
+}   
